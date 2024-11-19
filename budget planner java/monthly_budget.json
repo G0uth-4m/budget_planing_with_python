@@ -1,0 +1,32 @@
+{
+    "January": {
+        "salary": 3000,
+        "expenses": [
+            {
+                "name": "Rent",
+                "amount": 1000
+            },
+            {
+                "name": "Groceries",
+                "amount": 300
+            },
+            {
+                "name": "Transportation",
+                "amount": 150
+            }
+        ],
+        "total_expenses": 1450,
+        "remaining_balance": 1550
+    },
+    "january": {
+        "salary": 3000.0,
+        "expenses": [
+            {
+                "name": "rent",
+                "amount": 300.0
+            }
+        ],
+        "total_expenses": 300.0,
+        "remaining_balance": 2700.0
+    }
+}
